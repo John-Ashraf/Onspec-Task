@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johna\\OneDrive\\Desktop\\onspectask\\Onspec-Task\\CandidateHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{542AAF42-4092-471B-9A89-7C8B7B0CC816}|CandidateHub.API\\CandidateHub.API.csproj|c:\\users\\johna\\onedrive\\desktop\\onspectask\\onspec-task\\candidatehub\\candidatehub.api\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542AAF42-4092-471B-9A89-7C8B7B0CC816}|CandidateHub.API\\CandidateHub.API.csproj|solutionrelative:candidatehub.api\\controllers\\candidatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458FDDD4-CEEB-4B3C-A42B-A31C255527BF}|CandidateHub.Application\\CandidateHub.Application.csproj|c:\\users\\johna\\onedrive\\desktop\\onspectask\\onspec-task\\candidatehub\\candidatehub.application\\implementations\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458FDDD4-CEEB-4B3C-A42B-A31C255527BF}|CandidateHub.Application\\CandidateHub.Application.csproj|solutionrelative:candidatehub.application\\implementations\\candidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458FDDD4-CEEB-4B3C-A42B-A31C255527BF}|CandidateHub.Application\\CandidateHub.Application.csproj|c:\\users\\johna\\onedrive\\desktop\\onspectask\\onspec-task\\candidatehub\\candidatehub.application\\abstracts\\icandidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458FDDD4-CEEB-4B3C-A42B-A31C255527BF}|CandidateHub.Application\\CandidateHub.Application.csproj|solutionrelative:candidatehub.application\\abstracts\\icandidateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542AAF42-4092-471B-9A89-7C8B7B0CC816}|CandidateHub.API\\CandidateHub.API.csproj|c:\\users\\johna\\onedrive\\desktop\\onspectask\\onspec-task\\candidatehub\\candidatehub.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542AAF42-4092-471B-9A89-7C8B7B0CC816}|CandidateHub.API\\CandidateHub.API.csproj|solutionrelative:candidatehub.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{542AAF42-4092-471B-9A89-7C8B7B0CC816}|CandidateHub.API\\CandidateHub.API.csproj|c:\\users\\johna\\onedrive\\desktop\\onspectask\\onspec-task\\candidatehub\\candidatehub.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{542AAF42-4092-471B-9A89-7C8B7B0CC816}|CandidateHub.API\\CandidateHub.API.csproj|solutionrelative:candidatehub.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A21805C-EFA9-48A5-8AA6-5C3CF3EE35FF}|CandidateHub.Domain\\CandidateHub.Domain.csproj|c:\\users\\johna\\onedrive\\desktop\\onspectask\\onspec-task\\candidatehub\\candidatehub.domain\\models\\exceptions\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A21805C-EFA9-48A5-8AA6-5C3CF3EE35FF}|CandidateHub.Domain\\CandidateHub.Domain.csproj|solutionrelative:candidatehub.domain\\models\\exceptions\\conflictexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A21805C-EFA9-48A5-8AA6-5C3CF3EE35FF}|CandidateHub.Domain\\CandidateHub.Domain.csproj|c:\\users\\johna\\onedrive\\desktop\\onspectask\\onspec-task\\candidatehub\\candidatehub.domain\\models\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A21805C-EFA9-48A5-8AA6-5C3CF3EE35FF}|CandidateHub.Domain\\CandidateHub.Domain.csproj|solutionrelative:candidatehub.domain\\models\\exceptions\\validationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A21805C-EFA9-48A5-8AA6-5C3CF3EE35FF}|CandidateHub.Domain\\CandidateHub.Domain.csproj|c:\\users\\johna\\onedrive\\desktop\\onspectask\\onspec-task\\candidatehub\\candidatehub.domain\\models\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A21805C-EFA9-48A5-8AA6-5C3CF3EE35FF}|CandidateHub.Domain\\CandidateHub.Domain.csproj|solutionrelative:candidatehub.domain\\models\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{458FDDD4-CEEB-4B3C-A42B-A31C255527BF}|CandidateHub.Application\\CandidateHub.Application.csproj|c:\\users\\johna\\onedrive\\desktop\\onspectask\\onspec-task\\candidatehub\\candidatehub.application\\moduleapplicationdependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{458FDDD4-CEEB-4B3C-A42B-A31C255527BF}|CandidateHub.Application\\CandidateHub.Application.csproj|solutionrelative:candidatehub.application\\moduleapplicationdependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7D726D-93B6-45E5-9390-59BAB19D124E}|CandidateHub.Infrastructure\\CandidateHub.Infrastructure.csproj|c:\\users\\johna\\onedrive\\desktop\\onspectask\\onspec-task\\candidatehub\\candidatehub.infrastructure\\moduleinfrasstructuredependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7D726D-93B6-45E5-9390-59BAB19D124E}|CandidateHub.Infrastructure\\CandidateHub.Infrastructure.csproj|solutionrelative:candidatehub.infrastructure\\moduleinfrasstructuredependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A21805C-EFA9-48A5-8AA6-5C3CF3EE35FF}|CandidateHub.Domain\\CandidateHub.Domain.csproj|c:\\users\\johna\\onedrive\\desktop\\onspectask\\onspec-task\\candidatehub\\candidatehub.domain\\models\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A21805C-EFA9-48A5-8AA6-5C3CF3EE35FF}|CandidateHub.Domain\\CandidateHub.Domain.csproj|solutionrelative:candidatehub.domain\\models\\entities\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A21805C-EFA9-48A5-8AA6-5C3CF3EE35FF}|CandidateHub.Domain\\CandidateHub.Domain.csproj|c:\\users\\johna\\onedrive\\desktop\\onspectask\\onspec-task\\candidatehub\\candidatehub.domain\\models\\dtos\\candidatecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A21805C-EFA9-48A5-8AA6-5C3CF3EE35FF}|CandidateHub.Domain\\CandidateHub.Domain.csproj|solutionrelative:candidatehub.domain\\models\\dtos\\candidatecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CandidateService.cs",
+              "DocumentMoniker": "C:\\Users\\johna\\OneDrive\\Desktop\\onspectask\\Onspec-Task\\CandidateHub\\CandidateHub.Application\\Implementations\\CandidateService.cs",
+              "RelativeDocumentMoniker": "CandidateHub.Application\\Implementations\\CandidateService.cs",
+              "ToolTip": "C:\\Users\\johna\\OneDrive\\Desktop\\onspectask\\Onspec-Task\\CandidateHub\\CandidateHub.Application\\Implementations\\CandidateService.cs",
+              "RelativeToolTip": "CandidateHub.Application\\Implementations\\CandidateService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:18:17.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICandidateService.cs",
+              "DocumentMoniker": "C:\\Users\\johna\\OneDrive\\Desktop\\onspectask\\Onspec-Task\\CandidateHub\\CandidateHub.Application\\Abstracts\\ICandidateService.cs",
+              "RelativeDocumentMoniker": "CandidateHub.Application\\Abstracts\\ICandidateService.cs",
+              "ToolTip": "C:\\Users\\johna\\OneDrive\\Desktop\\onspectask\\Onspec-Task\\CandidateHub\\CandidateHub.Application\\Abstracts\\ICandidateService.cs",
+              "RelativeToolTip": "CandidateHub.Application\\Abstracts\\ICandidateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:18:12.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ConflictException.cs",
+              "DocumentMoniker": "C:\\Users\\johna\\OneDrive\\Desktop\\onspectask\\Onspec-Task\\CandidateHub\\CandidateHub.Domain\\Models\\Exceptions\\ConflictException.cs",
+              "RelativeDocumentMoniker": "CandidateHub.Domain\\Models\\Exceptions\\ConflictException.cs",
+              "ToolTip": "C:\\Users\\johna\\OneDrive\\Desktop\\onspectask\\Onspec-Task\\CandidateHub\\CandidateHub.Domain\\Models\\Exceptions\\ConflictException.cs",
+              "RelativeToolTip": "CandidateHub.Domain\\Models\\Exceptions\\ConflictException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:09:26.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\johna\\OneDrive\\Desktop\\onspectask\\Onspec-Task\\CandidateHub\\CandidateHub.Domain\\Models\\Exceptions\\ValidationException.cs",
+              "RelativeDocumentMoniker": "CandidateHub.Domain\\Models\\Exceptions\\ValidationException.cs",
+              "ToolTip": "C:\\Users\\johna\\OneDrive\\Desktop\\onspectask\\Onspec-Task\\CandidateHub\\CandidateHub.Domain\\Models\\Exceptions\\ValidationException.cs",
+              "RelativeToolTip": "CandidateHub.Domain\\Models\\Exceptions\\ValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:09:09.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\johna\\OneDrive\\Desktop\\onspectask\\Onspec-Task\\CandidateHub\\CandidateHub.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "CandidateHub.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\johna\\OneDrive\\Desktop\\onspectask\\Onspec-Task\\CandidateHub\\CandidateHub.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "CandidateHub.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:06:56.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CandidateController.cs",
+              "DocumentMoniker": "C:\\Users\\johna\\OneDrive\\Desktop\\onspectask\\Onspec-Task\\CandidateHub\\CandidateHub.API\\Controllers\\CandidateController.cs",
+              "RelativeDocumentMoniker": "CandidateHub.API\\Controllers\\CandidateController.cs",
+              "ToolTip": "C:\\Users\\johna\\OneDrive\\Desktop\\onspectask\\Onspec-Task\\CandidateHub\\CandidateHub.API\\Controllers\\CandidateController.cs",
+              "RelativeToolTip": "CandidateHub.API\\Controllers\\CandidateController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwCUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T21:46:23.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\johna\\OneDrive\\Desktop\\onspectask\\Onspec-Task\\CandidateHub\\CandidateHub.Domain\\Models\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "CandidateHub.Domain\\Models\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Users\\johna\\OneDrive\\Desktop\\onspectask\\Onspec-Task\\CandidateHub\\CandidateHub.Domain\\Models\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "CandidateHub.Domain\\Models\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T10:08:49.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ModuleApplicationDependencies.cs",
+              "DocumentMoniker": "C:\\Users\\johna\\OneDrive\\Desktop\\onspectask\\Onspec-Task\\CandidateHub\\CandidateHub.Application\\ModuleApplicationDependencies.cs",
+              "RelativeDocumentMoniker": "CandidateHub.Application\\ModuleApplicationDependencies.cs",
+              "ToolTip": "C:\\Users\\johna\\OneDrive\\Desktop\\onspectask\\Onspec-Task\\CandidateHub\\CandidateHub.Application\\ModuleApplicationDependencies.cs",
+              "RelativeToolTip": "CandidateHub.Application\\ModuleApplicationDependencies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T22:20:36.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\johna\\OneDrive\\Desktop\\onspectask\\Onspec-Task\\CandidateHub\\CandidateHub.API\\Program.cs",
+              "RelativeDocumentMoniker": "CandidateHub.API\\Program.cs",
+              "ToolTip": "C:\\Users\\johna\\OneDrive\\Desktop\\onspectask\\Onspec-Task\\CandidateHub\\CandidateHub.API\\Program.cs",
+              "RelativeToolTip": "CandidateHub.API\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T21:47:21.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "C:\\Users\\johna\\OneDrive\\Desktop\\onspectask\\Onspec-Task\\CandidateHub\\CandidateHub.Domain\\Models\\Entities\\Candidate.cs",
+              "RelativeDocumentMoniker": "CandidateHub.Domain\\Models\\Entities\\Candidate.cs",
+              "ToolTip": "C:\\Users\\johna\\OneDrive\\Desktop\\onspectask\\Onspec-Task\\CandidateHub\\CandidateHub.Domain\\Models\\Entities\\Candidate.cs",
+              "RelativeToolTip": "CandidateHub.Domain\\Models\\Entities\\Candidate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T22:04:12.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ModuleInfrasStructureDependencies.cs",
+              "DocumentMoniker": "C:\\Users\\johna\\OneDrive\\Desktop\\onspectask\\Onspec-Task\\CandidateHub\\CandidateHub.Infrastructure\\ModuleInfrasStructureDependencies.cs",
+              "RelativeDocumentMoniker": "CandidateHub.Infrastructure\\ModuleInfrasStructureDependencies.cs",
+              "ToolTip": "C:\\Users\\johna\\OneDrive\\Desktop\\onspectask\\Onspec-Task\\CandidateHub\\CandidateHub.Infrastructure\\ModuleInfrasStructureDependencies.cs",
+              "RelativeToolTip": "CandidateHub.Infrastructure\\ModuleInfrasStructureDependencies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T21:47:55.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CandidateCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\johna\\OneDrive\\Desktop\\onspectask\\Onspec-Task\\CandidateHub\\CandidateHub.Domain\\Models\\DTOS\\CandidateCreateDto.cs",
+              "RelativeDocumentMoniker": "CandidateHub.Domain\\Models\\DTOS\\CandidateCreateDto.cs",
+              "ToolTip": "C:\\Users\\johna\\OneDrive\\Desktop\\onspectask\\Onspec-Task\\CandidateHub\\CandidateHub.Domain\\Models\\DTOS\\CandidateCreateDto.cs",
+              "RelativeToolTip": "CandidateHub.Domain\\Models\\DTOS\\CandidateCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T22:04:04.447Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
